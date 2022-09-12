@@ -153,7 +153,7 @@ body {
 
 .menuMobile {
     position: fixed;
-    width: 437px;
+    width: 110%;
     height: 86px;
     left: -4px;
     top: 841px;
