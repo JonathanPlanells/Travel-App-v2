@@ -151,6 +151,16 @@ body {
     background-color: #060A2A;
 }
 
+.menuMobile {
+    position: fixed;
+    width: 437px;
+    height: 86px;
+    left: -4px;
+    top: 841px;
+    background-color: #CDCED4;
+
+}
+
 .saludo {
     display: flex;
     flex-direction: column;
@@ -261,7 +271,6 @@ body {
     background: #060A2A;
     box-shadow: 1px -1px 24px #2D3255;
     border-radius: 40px;
-
 }
 
 .destinos P {
@@ -275,28 +284,45 @@ body {
     letter-spacing: -0.02em;
     color: #FFFFFF;
 }
-.destinosPopulares{
-    text-align: center;
-    
-    
-}
-.destinoPopular1 { 
-    display: inline-block;
-    width: 40%;
-    height: 232px;
-    border-radius: 20px;
-    margin: 15px auto auto 0px;
-    background-color: #18AEC6;
 
+.destinosPopulares {
+    text-align: center;
 }
+
+.destinoPopular1 {
+    display: inline-block;
+    width: 42%;
+    height: 225px;
+    border-radius: 20px;
+    margin: 15px auto;
+    background-color: #18AEC6;
+    margin-right: 5px;
+}
+
 .destinoPopular2 {
     display: inline-block;
-    width: 40%;
-    height: 232px;
+    width: 42%;
+    height: 225px;
     border-radius: 20px;
-    margin: 15px auto 0 12px;
+    margin: 15px auto;
     background-color: #18AEC6;
+    margin-left: 5px;
+}
 
+.recomendadoDia {
+    display: flex;
+    width: 88%;
+    height: 199px;
+    margin: 0px auto;
+    background-color: #18AEC6;
+    border-radius: 20px;
+}
 
-
+.nuevaAventura {
+    display: flex;
+    width: 88%;
+    height: 139px;
+    margin: 10px auto;
+    background-color: #18AEC6;
+    border-radius: 20px;
 }
