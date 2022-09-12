@@ -167,7 +167,7 @@ body {
     align-items: stretch;
     width: 80%;
     height: 71px;
-    margin: 51px auto auto 36px;
+    margin: 30px auto auto 36px;
 }
 
 .saludo p {
@@ -313,7 +313,7 @@ body {
     display: flex;
     width: 88%;
     height: 199px;
-    margin: 0px auto;
+    margin: 2px auto;
     background-color: #18AEC6;
     border-radius: 20px;
 }
