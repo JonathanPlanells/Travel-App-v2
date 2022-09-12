@@ -154,9 +154,8 @@ body {
 .menuMobile {
     position: fixed;
     width: 110%;
-    height: 86px;
-    left: -4px;
-    top: 841px;
+    height: 80px;
+    bottom: 0;
     background-color: #CDCED4;
 
 }
